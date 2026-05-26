@@ -1,0 +1,123 @@
+Individual,Site,Season,Age,Fat,Permanence,PlasmaDetection,Species,PercentAg,BCI,Julian,Mass,OverallNeonic,Uric,Biomass,MigStatus,Diversity,EnvDetection,FatteningIndex,time_hours
+1232-00547,RoadWPA,Spring,NA,0,Permanent,Y,Killdeer,36.0244233,0.109875698,114,97.4,0.3,620,0.2456,Resident,4,Y,0.667492588,17.78333333
+1603-40801,RoadWPA,Spring,NA,1,Permanent,N,Greater Yellowlegs,36.0244233,-9.02E-17,114,148.7,0,593,0.2456,Migratory,4,Y,0.83849791,16.16666667
+1232-00548,RoadWPA,Spring,NA,0,Permanent,N,Killdeer,36.0244233,0.024518958,115,87.8,0,1473,0.2456,Resident,4,Y,0.322303893,16.5
+1232-00549,Huesers,Spring,NA,0,Permanent,N,Killdeer,75.1006711,0.363950909,120,124.6,0,795,0.1084,Resident,5,Y,3.239434702,16.66666667
+1094-71901,Huesers,Spring,NA,1,Permanent,N,Willet,75.1006711,-0.087857541,121,237.5,0,NA,0.1084,Resident,5,Y,NA,16.5
+1232-00550,Huesers,Spring,NA,0,Permanent,N,Longbilled Dowitcher,75.1006711,-0.025935464,122,102.6,0,405,0.1084,Migratory,5,Y,0.202231745,12.5
+1094-71902,RoadWPA,Spring,NA,0,Permanent,Y,Willet,36.0244233,-0.122256364,123,228.1,0.8,1232,0.2456,Resident,4,Y,-0.436961601,14.5
+1094-71903,RoadWPA,Spring,NA,1,Permanent,Y,Willet,36.0244233,0.198686658,123,318.8,0.35,996,0.2456,Resident,4,Y,0.595426432,17.83333333
+1232-00551,RoadWPA,Spring,NA,0,Permanent,N,Longbilled Dowitcher,36.0244233,-0.037127369,123,100,0,1103,0.2456,Migratory,4,Y,0.488977831,10.25
+1232-00552,RoadWPA,Spring,NA,0,Permanent,N,Longbilled Dowitcher,36.0244233,-0.100312576,123,93.6,0,660,0.2456,Migratory,4,Y,1.333682159,17.83333333
+1232-00553,RoadWPA,Spring,NA,0,Permanent,N,Longbilled Dowitcher,36.0244233,0.090154572,123,111.2,0,1439,0.2456,Migratory,4,Y,1.489787385,19.5
+1232-00554,RoadWPA,Spring,NA,0,Permanent,N,Longbilled Dowitcher,36.0244233,0.049438946,123,110,0,1322,0.2456,Migratory,4,Y,1.458336561,20.66666667
+1232-00555,Huesers,Spring,NA,1,Permanent,N,Longbilled Dowitcher,75.1006711,0.023781891,128,104.7,0,1332,0.1084,Migratory,5,Y,1.420265446,14.78333333
+1232-00556,Huesers,Spring,NA,0,Permanent,N,Wilsons Phalarope,75.1006711,0.053626636,128,60.2,0,843,0.1084,Resident,5,Y,-0.311919792,16.75
+1094-71904,Huesers,Spring,NA,0,Permanent,Y,Willet,75.1006711,-0.077779742,129,234.6,1.325,NA,0.1084,Resident,5,Y,NA,11.58333333
+1232-00557,Huesers,Spring,NA,0,Permanent,N,Wilsons Phalarope,75.1006711,-0.297484337,129,42.1,0,409,0.1084,Resident,5,Y,-0.976198981,14
+1232-00558,Huesers,Spring,NA,0,Permanent,N,Killdeer,75.1006711,-0.028374374,129,83.5,0,389,0.1084,Resident,5,Y,-0.694673424,18.36666667
+1341-36533,Huesers,Spring,NA,0,Permanent,N,Least Sandpiper,75.1006711,-0.157228658,129,15.9,0,NA,0.1084,Migratory,5,Y,NA,16.25
+1094-71905,Huesers,Spring,NA,1,Permanent,N,Willet,75.1006711,0.339393304,130,359,0,499,0.1084,Resident,5,Y,3.418455637,11.28333333
+1232-00559,Huesers,Spring,NA,0,Permanent,N,Killdeer,75.1006711,0.14326923,130,99.4,0,504,0.1084,Resident,5,Y,0.009455167,15.3
+1341-36534,Huesers,Spring,NA,0,Permanent,N,Least Sandpiper,75.1006711,-0.012201513,130,18,0,NA,0.1084,Migratory,5,Y,NA,9.916666667
+1341-36535,Huesers,Spring,NA,1,Permanent,N,Least Sandpiper,75.1006711,-0.088753954,130,17.2,0,1233,0.1084,Migratory,5,Y,-2.278522621,16.96666667
+1341-36536,Huesers,Spring,NA,0,Permanent,N,Least Sandpiper,75.1006711,0.154955792,130,18.8,0,NA,0.1084,Migratory,5,Y,NA,18.5
+1094-71906,Virgil,Spring,NA,0,Semipermanent,Y,American Avocet,84.8765432,0.112579698,136,281.3,0.25,281,1.00E-04,Resident,1,N,-0.488405395,4.833333333
+1232-00560,Virgil,Spring,NA,0,Semipermanent,N,Shortbilled Dowitcher,84.8765432,1.56E-17,136,108.3,0,374,1.00E-04,Migratory,1,N,0.292891107,6
+1232-00561,Virgil,Spring,NA,0,Semipermanent,N,Wilsons Phalarope,84.8765432,0.161665466,136,67.5,0,872,1.00E-04,Resident,1,N,-1.359203481,7.5
+1232-00562,Virgil,Spring,NA,0,Semipermanent,Y,Wilsons Phalarope,84.8765432,-0.047107393,136,53.9,0.95,816,1.00E-04,Resident,1,N,-0.188669595,7.5
+1341-36537,Virgil,Spring,NA,0,Semipermanent,N,Semipalmated Sandpiper,84.8765432,-0.24093687,136,17.8,0,784,1.00E-04,Migratory,1,N,-1.460048589,6.25
+1341-36538,Virgil,Spring,NA,0,Semipermanent,N,Semipalmated Sandpiper,84.8765432,-0.124403054,136,20,0,763,1.00E-04,Migratory,1,N,NA,6.25
+1094-71907,Virgil,Spring,NA,0,Semipermanent,Y,American Avocet,84.8765432,-0.207244943,137,205.5,0.325,NA,1.00E-04,Resident,1,N,NA,4.833333333
+1232-00563,Virgil,Spring,NA,0,Semipermanent,N,Wilsons Phalarope,84.8765432,0.236778413,137,72.3,0,901,1.00E-04,Resident,1,N,2.13039826,0.8
+1341-36539,Virgil,Spring,NA,0,Semipermanent,Y,Semipalmated Sandpiper,84.8765432,-0.447560246,137,15,0.34375,NA,1.00E-04,Migratory,1,N,NA,3.333333333
+1341-36540,Virgil,Spring,NA,0,Semipermanent,N,Semipalmated Sandpiper,84.8765432,0.108808516,137,25.6,0,NA,1.00E-04,Migratory,1,N,NA,4.5
+1341-36541,Virgil,Spring,NA,0,Semipermanent,Y,Least Sandpiper,84.8765432,0.221928703,137,23.7,3.7,NA,1.00E-04,Migratory,1,N,NA,5.5
+1341-36542,Virgil,Spring,NA,0,Semipermanent,Y,Semipalmated Sandpiper,84.8765432,0.080637111,137,25,0.25,NA,1.00E-04,Migratory,1,N,NA,6.333333333
+1341-36543,Virgil,Spring,NA,0,Semipermanent,NA,Least Sandpiper,84.8765432,0.144991622,137,21.4,NA,NA,1.00E-04,Migratory,1,N,NA,6.666666667
+1341-36544,Virgil,Spring,NA,0,Semipermanent,Y,Least Sandpiper,84.8765432,0.12450659,137,21.5,8.458333333,NA,1.00E-04,Migratory,1,N,NA,7.75
+1341-36545,Virgil,Spring,NA,0,Semipermanent,Y,Semipalmated Sandpiper,84.8765432,-0.190120387,137,18.9,0.958333333,NA,1.00E-04,Migratory,1,N,NA,7.75
+1232-00564,Lodge,Fall,Adult,0,Permanent,Y,Lesser Yellowlegs,6.9126074,-0.011323271,192,82.8,0.325,NA,3.0793,Migratory,6,N,NA,11.33333333
+1232-00565,Lodge,Fall,NA,0,Permanent,N,Pectoral Sandpiper,6.9126074,0.136472204,192,69.8,0,1595,3.0793,Migratory,6,N,0.850083419,14
+1341-36546,Lodge,Fall,NA,3,Permanent,N,Least Sandpiper,6.9126074,-0.217038087,192,14.9,0,NA,3.0793,Migratory,6,N,NA,12.75
+1094-71908,Lodge,Fall,NA,0,Permanent,N,Willet,6.9126074,-0.032364731,193,245.5,0,NA,3.0793,Resident,6,N,NA,10.66666667
+1232-00566,Lodge,Fall,Adult,0,Permanent,N,Lesser Yellowlegs,6.9126074,0.10352043,193,93.4,0,1093,3.0793,Migratory,6,N,0.465547061,11
+1232-00568,Brandon,Fall,NA,2,Permanent,NA,Killdeer,21.5455476,-0.037135174,196,84.3,NA,NA,0.331,Resident,8,Y,NA,5.916666667
+1232-00569,Brandon,Fall,NA,0,Permanent,Y,Pectoral Sandpiper,21.5455476,0.063644835,196,64.5,9.025,NA,0.331,Migratory,8,Y,NA,5.983333333
+1341-36547,Brandon,Fall,NA,3,Permanent,N,Semipalmated Sandpiper,21.5455476,-0.184095501,196,19.1,0,NA,0.331,Migratory,8,Y,NA,4.5
+1232-00570,Brandon,Fall,Adult,3,Permanent,N,Lesser Yellowlegs,21.5455476,-0.034308355,198,82.5,0,NA,0.331,Migratory,8,Y,1.069217949,10.83333333
+1094-71909,USWPA,Fall,NA,0,Permanent,N,Willet,28.1001833,-0.217821584,199,201.8,0,857,0.3706,Resident,6,Y,0.069297538,16.75
+1232-00571,USWPA,Fall,NA,4,Permanent,Y,Wilsons Phalarope,28.1001833,0.086148154,199,59.5,0.275,826,0.3706,Resident,6,Y,0.530103782,16.58333333
+1341-36549,Hanson,Fall,NA,2,Permanent,N,Semipalmated Sandpiper,64.1634456,-0.222381249,201,18.3,0,NA,0.0111,Migratory,4,N,NA,3.333333333
+1341-36551,Hanson,Fall,NA,3,Permanent,NA,Least Sandpiper,64.1634456,-0.077928803,201,17.3,NA,NA,0.0111,Migratory,4,N,NA,4.916666667
+1341-36552,Hanson,Fall,NA,2,Permanent,N,Least Sandpiper,64.1634456,-0.254486655,201,14.5,0,NA,0.0111,Migratory,4,N,NA,6
+1232-00573,Richard,Fall,NA,0,Permanent,N,Pectoral Sandpiper,39.1171994,-0.235284683,208,45.7,0,1462,0.0643,Migratory,3,N,-0.202037832,9.533333333
+1232-00574,Richard,Fall,Juvenile,3,Permanent,N,Lesser Yellowlegs,39.1171994,-0.074635816,208,77.5,0,1686,0.0643,Migratory,3,N,0.391953488,11.25
+1232-00575,Richard,Fall,Juvenile,1,Permanent,N,Lesser Yellowlegs,39.1171994,-0.058958692,208,78.5,0,NA,0.0643,Migratory,3,N,NA,13.5
+1232-00576,Richard,Fall,Juvenile,1,Permanent,Y,Lesser Yellowlegs,39.1171994,-0.034537509,209,80.9,1.825,1698,0.0643,Migratory,3,N,0.075539305,20.03333333
+1232-00577,Richard,Fall,Adult,3,Permanent,N,Lesser Yellowlegs,39.1171994,0.074681928,209,92,0,NA,0.0643,Migratory,3,N,NA,21.86666667
+1232-00578,Richard,Fall,Juvenile,0,Permanent,N,Lesser Yellowlegs,39.1171994,-0.117437849,210,75.3,0,NA,0.0643,Migratory,3,N,NA,19.4
+1232-00579,Richard,Fall,Adult,3,Permanent,N,Lesser Yellowlegs,39.1171994,0.032915846,210,86.3,0,1742,0.0643,Migratory,3,N,0.905471192,21.33333333
+1232-00580,Uhlich,Fall,NA,0,Semipermanent,N,Wilsons Phalarope,56.7768038,-0.19362694,215,45.3,0,1273,0.0163,Resident,4,N,-0.117237273,8.7
+1232-00581,Uhlich,Fall,Juvenile,1,Semipermanent,N,Lesser Yellowlegs,56.7768038,-0.194034795,218,70.7,0,815,0.0163,Migratory,4,N,-1.789452485,5.25
+1232-00582,Uhlich,Fall,Adult,3,Semipermanent,N,Lesser Yellowlegs,56.7768038,-0.006131937,218,83.7,0,587,0.0163,Migratory,4,N,-0.51806905,5.5
+1232-00583,Uhlich,Fall,Adult,4,Semipermanent,Y,Lesser Yellowlegs,56.7768038,0.217806954,218,105,0.9,NA,0.0163,Migratory,4,N,NA,5.75
+1341-36553,Uhlich,Fall,NA,1,Semipermanent,N,Least Sandpiper,56.7768038,-0.350869206,218,13.3,0,NA,0.0163,Migratory,4,N,NA,3.75
+1341-36554,Uhlich,Fall,NA,3,Semipermanent,N,Semipalmated Sandpiper,56.7768038,0.06856453,218,24.7,0,NA,0.0163,Migratory,4,N,NA,4
+1341-36555,Uhlich,Fall,NA,4,Semipermanent,N,Semipalmated Sandpiper,56.7768038,0.345600575,218,32,0,1272,0.0163,Migratory,4,N,-0.557539928,4.5
+1094-71910,Uhlich,Fall,NA,0,Semipermanent,N,American Avocet,56.7768038,0.094665246,219,279,0,918,0.0163,Resident,4,N,-1.185658384,5.25
+1232-00584,Uhlich,Fall,Adult,4,Semipermanent,N,Lesser Yellowlegs,56.7768038,0.283579049,219,111.2,0,451,0.0163,Migratory,4,N,-0.114820712,4.25
+1341-36556,Uhlich,Fall,NA,3,Semipermanent,N,Least Sandpiper,56.7768038,-0.282460507,219,14.1,0,NA,0.0163,Migratory,4,N,NA,4.666666667
+1341-36557,Uhlich,Fall,NA,0,Semipermanent,N,Least Sandpiper,56.7768038,-0.089556841,219,17.1,0,NA,0.0163,Migratory,4,N,NA,5.75
+1341-36558,Uhlich,Fall,NA,5,Semipermanent,N,Semipalmated Sandpiper,56.7768038,0.494708362,219,36.8,0,970,0.0163,Migratory,4,N,-0.992749709,6.5
+1341-36559,Uhlich,Fall,NA,3,Semipermanent,Y,Semipalmated Sandpiper,56.7768038,0.051500085,219,23.4,1.45,956,0.0163,Migratory,4,N,-1.158917468,6.75
+1341-36560,Uhlich,Fall,NA,0,Semipermanent,N,Least Sandpiper,56.7768038,-0.098510916,220,16.6,0,NA,0.0163,Migratory,4,N,NA,4.166666667
+1341-36561,Uhlich,Fall,NA,2,Semipermanent,N,Semipalmated Sandpiper,56.7768038,-0.024302847,220,21.9,0,NA,0.0163,Migratory,4,N,NA,5.25
+1341-36562,Uhlich,Fall,NA,2,Semipermanent,N,Least Sandpiper,56.7768038,0.057046633,220,19.8,0,NA,0.0163,Migratory,4,N,NA,5.5
+1341-36563,Uhlich,Fall,NA,2,Semipermanent,N,Least Sandpiper,56.7768038,0.042315799,220,19.9,0,NA,0.0163,Migratory,4,N,NA,5.583333333
+1341-36564,Uhlich,Fall,NA,3,Semipermanent,N,Semipalmated Sandpiper,56.7768038,0.065300823,220,24.4,0,NA,0.0163,Migratory,4,N,NA,5.75
+1341-36565,Uhlich,Fall,NA,2,Semipermanent,N,Least Sandpiper,56.7768038,0.001284403,220,19.1,0,NA,0.0163,Migratory,4,N,NA,6.25
+1341-36566,Uhlich,Fall,NA,0,Semipermanent,N,Least Sandpiper,56.7768038,-0.026282577,220,18.4,0,834,0.0163,Migratory,4,N,NA,7.75
+1341-36567,Uhlich,Fall,NA,0,Semipermanent,N,Least Sandpiper,56.7768038,-0.078759022,220,17.8,0,NA,0.0163,Migratory,4,N,NA,7.75
+1232-00585,Uhlich,Fall,Juvenile,0,Semipermanent,N,Lesser Yellowlegs,56.7768038,-0.089753939,221,77.2,0,903,0.0163,Migratory,4,N,-0.1155822,17.96666667
+1232-00586,Uhlich,Fall,Adult,4,Semipermanent,N,Lesser Yellowlegs,56.7768038,0.096638338,221,92.5,0,1331,0.0163,Migratory,4,N,0.888154535,19.41666667
+1232-00587,Uhlich,Fall,Adult,4,Semipermanent,N,Lesser Yellowlegs,56.7768038,0.026773499,221,86.5,0,1401,0.0163,Migratory,4,N,0.638590421,21.75
+1341-36568,Uhlich,Fall,NA,3,Semipermanent,N,Least Sandpiper,56.7768038,-0.209178836,221,15.4,0,NA,0.0163,Migratory,4,N,NA,20.3
+PESA1,Uhlich,Fall,NA,0,Semipermanent,NA,Pectoral Sandpiper,56.7768038,-0.104870679,221,53.3,NA,NA,0.0163,Migratory,4,N,NA,22
+1232-00588,Glinz,Fall,NA,0,Semipermanent,Y,Killdeer,67.6997245,-0.138299891,228,73.8,0.425,384,0.2656,Resident,4,Y,-1.247921757,4.166666667
+1232-00589,Glinz,Fall,Adult,2,Semipermanent,N,Lesser Yellowlegs,67.6997245,0.021097682,228,87.2,0,498,0.2656,Migratory,4,Y,-1.021783972,5.25
+1232-00590,Glinz,Fall,NA,4,Semipermanent,N,Pectoral Sandpiper,67.6997245,0.359045081,228,82.8,0,788,0.2656,Migratory,4,Y,1.137850745,5.75
+1341-36569,Glinz,Fall,NA,2,Semipermanent,N,Least Sandpiper,67.6997245,0.091789581,228,20.5,0,NA,0.2656,Migratory,4,Y,NA,4.5
+1341-36570,Glinz,Fall,NA,3,Semipermanent,NA,Least Sandpiper,67.6997245,0.015803674,228,19,NA,NA,0.2656,Migratory,4,Y,NA,4.75
+1341-36571,Glinz,Fall,NA,5,Semipermanent,N,Least Sandpiper,67.6997245,0.359858294,228,27.6,0,1272,0.2656,Migratory,4,Y,-1.036807282,4.833333333
+1341-36572,Glinz,Fall,NA,5,Semipermanent,N,Least Sandpiper,67.6997245,0.323302073,228,26.1,0,NA,0.2656,Migratory,4,Y,-2.363195525,5
+1341-36573,Glinz,Fall,NA,4,Semipermanent,N,Least Sandpiper,67.6997245,0.096655771,228,20.6,0,NA,0.2656,Migratory,4,Y,NA,5
+1341-36574,Glinz,Fall,NA,2,Semipermanent,N,Least Sandpiper,67.6997245,-0.098636961,228,17.2,0,NA,0.2656,Migratory,4,Y,NA,5
+SEPA2,Glinz,Fall,NA,4,Semipermanent,NA,Semipalmated Sandpiper,67.6997245,0.207471364,228,28,NA,NA,0.2656,Migratory,4,Y,NA,4.416666667
+1341-36575,Glinz,Fall,NA,1,Semipermanent,N,Least Sandpiper,67.6997245,0.031781224,229,19.5,0,NA,0.2656,Migratory,4,Y,-0.210951471,5.75
+1341-36576,Glinz,Fall,NA,2,Semipermanent,N,Semipalmated Sandpiper,67.6997245,-0.080748173,229,20.6,0,NA,0.2656,Migratory,4,Y,NA,5.916666667
+1341-36577,Glinz,Fall,NA,0,Semipermanent,N,Least Sandpiper,67.6997245,-0.077193131,229,17.4,0,1137,0.2656,Migratory,4,Y,-2.628676534,6.45
+1341-36578,Glinz,Fall,NA,1,Semipermanent,Y,Least Sandpiper,67.6997245,0.057046633,229,19.8,0.625,NA,0.2656,Migratory,4,Y,NA,7.5
+1232-00591,Glinz,Fall,Adult,0,Semipermanent,Y,Lesser Yellowlegs,67.6997245,-0.14702953,232,72.7,0.25,1250,0.2656,Migratory,4,Y,-1.173306945,17.75
+1232-00592,Glinz,Fall,Juvenile,2,Semipermanent,N,Lesser Yellowlegs,67.6997245,-0.09266543,232,74.8,0,541,0.2656,Migratory,4,Y,-0.760251384,17.75
+1232-00593,Glinz,Fall,NA,0,Semipermanent,N,Killdeer,67.6997245,-0.087435251,233,74.8,0,76,0.2656,Resident,4,Y,-0.614842524,20.08333333
+1232-00594,Glinz,Fall,Juvenile,0,Semipermanent,N,Lesser Yellowlegs,67.6997245,-0.100009452,234,76.2,0,2207,0.2656,Migratory,4,Y,-0.511704068,17.16666667
+1232-00595,Glinz,Fall,Adult,3,Semipermanent,N,Lesser Yellowlegs,67.6997245,-0.137630238,234,74.2,0,1370,0.2656,Migratory,4,Y,-0.46484697,18.33333333
+1232-00596,Glinz,Fall,NA,1,Semipermanent,N,Pectoral Sandpiper,67.6997245,-0.194743834,235,48.4,0,1138,0.2656,Migratory,4,Y,-0.273853119,16.91666667
+2561-78401,Glinz,Fall,NA,2,Semipermanent,N,Pectoral Sandpiper,67.6997245,-0.202989088,235,47.2,0,863,0.2656,Migratory,4,Y,0.176005891,20.16666667
+1232-00597,Muske,Fall,NA,0,Seasonal,Y,Killdeer,48.2093664,-0.004221255,236,80.8,1015.175,346,0.0706,Resident,2,Y,-0.685253607,20.58333333
+1232-00598,Muske,Fall,Juvenile,0,Seasonal,N,Lesser Yellowlegs,48.2093664,-0.19770849,238,69.3,0,1004,0.0706,Migratory,2,Y,0.766682623,18.83333333
+1232-00599,Muske,Fall,Adult,4,Seasonal,Y,Lesser Yellowlegs,48.2093664,0.087330115,238,91.9,1.175,1128,0.0706,Migratory,2,Y,0.74185209,20.5
+1232-00600,Muske,Fall,Juvenile,3,Seasonal,N,Lesser Yellowlegs,48.2093664,-0.108411692,239,76.4,0,1222,0.0706,Migratory,2,Y,0.399718232,17.75
+1341-36579,Muske,Fall,NA,5,Seasonal,N,Semipalmated Sandpiper,48.2093664,0.09195696,239,24.6,0,1295,0.0706,Migratory,2,Y,0.425820873,17.75
+1341-36580,Muske,Fall,NA,2,Seasonal,N,Least Sandpiper,48.2093664,-0.006287365,239,18.3,0,NA,0.0706,Migratory,2,Y,-1.295923309,17.75
+1412-94401,Muske,Fall,NA,0,Seasonal,N,Killdeer,48.2093664,-0.207777975,239,69.6,0,500,0.0706,Resident,2,Y,-1.08468562,17.75
+1412-94402,Muske,Fall,Juvenile,3,Seasonal,N,Lesser Yellowlegs,48.2093664,0.031584429,239,89.3,0,1799,0.0706,Migratory,2,Y,0.956404366,20.55
+2561-78402,Muske,Fall,NA,4,Seasonal,N,Pectoral Sandpiper,48.2093664,0.178726163,239,68.9,0,1544,0.0706,Migratory,2,Y,0.558372115,17.75
+1341-36587,Muske,Fall,NA,6,Seasonal,Y,Least Sandpiper,48.2093664,0.402106239,241,28.1,3.45,NA,0.0706,Migratory,2,Y,NA,12.36666667
+1412-94403,Muske,Fall,Juvenile,3,Seasonal,N,Lesser Yellowlegs,48.2093664,-0.059139304,241,79.6,0,2,0.0706,Migratory,2,Y,NA,6.583333333
+1412-94404,Muske,Fall,Juvenile,2,Seasonal,N,Lesser Yellowlegs,48.2093664,-0.091224028,241,77.3,0,953,0.0706,Migratory,2,Y,-0.362857408,6.583333333
+1412-94405,Muske,Fall,Juvenile,5,Seasonal,Y,Lesser Yellowlegs,48.2093664,0.23519104,241,108.6,1.1,908,0.0706,Migratory,2,Y,0.630565925,9.166666667
+1412-94407,Muske,Fall,Juvenile,4,Seasonal,N,Lesser Yellowlegs,48.2093664,0.111867824,241,96,0,1292,0.0706,Migratory,2,Y,0.406593833,10.66666667
+1412-94408,Muske,Fall,Juvenile,5,Seasonal,N,Lesser Yellowlegs,48.2093664,0.231953194,241,106.2,0,1344,0.0706,Migratory,2,Y,0.692067811,12.36666667
+1412-94409,Muske,Fall,NA,0,Seasonal,N,Killdeer,48.2093664,-0.138370876,241,74.2,0,NA,0.0706,Resident,2,Y,NA,12.36666667

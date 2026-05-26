@@ -1,0 +1,22 @@
+Variable,Description
+Individual,Unique ID for each individually tagged shorebird
+Site,Shorebird capture site
+Event,"Sampling event shorebird capture occurred (fall 2021, spring 2022, spring 2023, fall 2023)"
+Season,Season shorebird capture occurred (spring vs fall)
+Year,"Year shorebird capture occurred (2021, 2022, 2023)"
+Age,Juvenile or Adult (Lesser Yellowlegs only)
+Fat,Shorebird fat score (0-5)
+PlasmaDetection,"Birds with neonicotinoid detections in plasma (""Y"" = yes, ""N"" = no)"
+Species,Shorebird study species
+PercentAg,Percentage of surrounding cropland cover within 500m to wetland edge
+Julian,Julian day when each individual was captured
+Uric,Uric acid levels in shorebird plasma (umol/L)
+MigStatus,Migratory status of shorebird species (resident vs migrant)
+SPEI,Drought Index (SPEI = Standardized Precipitation Evapotranspiration Index)
+BCI,Body condition index (size & species corrected)
+EnvDetection,"Detection of neonicotinoids or other pesticide analytes in water or invertebrate samples (""Y"" = detection in wetland, ""N"" = no detection in wetland)"
+FatteningIndex,"PC1 of triglyceride and beta-hydroxybutyrate levels from a PCA. Positive values reflect greater refueling/fat deposition, and negative values reflect reduced refueling/increased fat metabolism"
+time_hours,time shorebird was captured (24hr time)
+AnnualSnowfall_in,Amount of snowfall (in) 1 year prior to sample collection date at study site
+PrecipiationAmount_7days,Precipiation amount (mm) in the 7 days prior to sample collection date at study site
+DaysSinceLastPrecipitation_5mm,Number of days since the last precipitation event (greater or equal to 5mm) at study site

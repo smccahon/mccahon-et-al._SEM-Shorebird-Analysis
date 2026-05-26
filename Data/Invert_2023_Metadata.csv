@@ -1,0 +1,20 @@
+Variable,Description
+Wetland,Site where invertebrate sample was collected
+Season,Season invertebrate sampling occurred in 2023 (spring vs fall)
+pH_probe,pH measurement taken in water at sample collection site from a portable device (Apera Instruments AI316 Premium Series PC60)
+Biomass,Invertebrate biomass (ash-free dry mass) in grams
+NearestCropDistance_m,Distance (m) from edge of wetland to nearest row crop
+Julian,Julian day when invertebrate sampling occurred
+PercentAg,Percentage of surrounding cropland within 500m to the wetland edge
+Buffered,"Presence of a complete vegetation buffer surrounding wetland (Y = presence, N = no presence)"
+WaterQuality,"PC1 of a PCA of pH, conductivity, and salinity from water measurements"
+Diversity,Invertebrate diversity (# Orders present in sample; ranges from 0-8)
+InvertPesticideDetection,"Detection of any pesticide analyte in invertebrate sample (Y = detection, N = no detection)"
+Permanence,"Wetland permanence classication (temporary, seasonal, semipermanent, permanent)"
+PrecipitationAmount_7days,Precipiation amount (mm) in the 7 days prior to sample collection date at study site
+DaysSinceLastPrecipitation_5mm,Number of days since the last precipitation event (greater or equal to 5mm) at study site
+AnnualSnowfall_in,Amount of snowfall (in) 1 year prior to sample collection date at study site
+EnvDetection,"Detection of any pesticide analyte in water OR invertebrate sample (Y = detection, N = no detection)"
+TDS_mg.L,Total dissolved solids (mg/L) measured in water at sample collection site from a portable device (Apera Instruments AI316 Premium Series PC60)
+Salinity_ppt,Salinity (ppt) measured in water at sample collection site from a portable device (Apera Instruments AI316 Premium Series PC60)
+Conductivity_uS.cm,Conductivity (uS/cm) measured in water at sample collection site from a portable device (Apera Instruments AI316 Premium Series PC60)

@@ -1,0 +1,21 @@
+Variable,Description
+Individual,Unique ID for each individually tagged shorebird
+Site,Shorebird capture site
+Season,"Season capure occurred (""spring"" vs ""fall"")"
+Age,"""Juvenile"" or ""Adult"" shorebird (Lesser Yellowlegs only)"
+Fat,Shorebird fat score (0-5)
+Permanence,"Wetland permanence classification (temporary/seasonal, semipermanent, or permanent)"
+PlasmaDetection,"Birds with neonicotinoid detections in plasma (""Y"" = yes, ""N"" = no)"
+Species,Shorebird study species
+PercentAg,Percentage of surrounding cropland cover within 500m to wetland edge
+BCI,Body condition index (size & species corrected)
+Julian,Julian day when each individual was captured
+Mass,Body mass of shorebird (g)
+OverallNeonic,Summation of neonicotinoid concentrations across all compounds detected for each individual (ug/L)
+Uric,Uric acid levels in shorebird plasma (umol/L)
+Biomass,Invertebrate biomass (ash-free dry mass) collected at capture site (g)
+MigStatus,Migratory status of shorebird species (resident vs migrant)
+Diversity,"Invertebrate diversity (# Orders present in a sample, ranging from 0-8)"
+EnvDetection,"Detection of neonicotinoids or other pesticide analytes in water or invertebrate samples (""Y"" = detection in wetland, ""N"" = no detection in wetland)"
+FatteningIndex,"PC1 of triglyceride and beta-hydroxybutyrate levels from a PCA. Positive values reflect greater refueling/fat deposition, and negative values reflect reduced refueling/increased fat metabolism"
+time_hours,time shorebird was captured (24hr time)
